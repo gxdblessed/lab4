@@ -1,0 +1,3 @@
+﻿  4lab.cpp
+D:\Source\Visual Studio Projects\4lab\4lab\4lab.cpp(228,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  4lab.vcxproj -> D:\Source\Visual Studio Projects\4lab\x64\Debug\4lab.exe
